@@ -1,5 +1,4 @@
-# Shopping List
+# Shopping List Project
 
-A simple JavaScript project.
-
-https://shoppping-list.netlify.app/
+- A simple JavaScript project.
+- Used localStorage to store items.
